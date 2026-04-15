@@ -39,8 +39,8 @@ The model achieves ~89.06% accuracy and is deployed using a Streamlit web applic
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/athhh07/Neuroplus-AI.git
-   cd Neuroplus-AI
+   https://github.com/athhh07/Neuroplus-AI-Brain-Tumor-Classifier.git
+   cd Neuroplus-AI-BrainiTumor-Classifier
 
 3. Install dependencies:
    pip install -r requirements.txt
