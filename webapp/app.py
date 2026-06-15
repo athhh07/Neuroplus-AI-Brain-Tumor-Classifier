@@ -324,7 +324,7 @@ IMG_SIZE = 224
 # ─── LOAD MODEL ─────────────────────────────────────────────────────────────────
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model("../models/brain_tumor_classifier_model.h5")
+    return tf.keras.models.load_model("models/brain_tumor_classifier_model.h5")
 
 try:
     model = load_model()
