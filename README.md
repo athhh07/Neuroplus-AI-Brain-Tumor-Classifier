@@ -27,7 +27,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[Try the app here](#)** *(replace with your Streamlit deployment link)*
+🔗 **[Try the app here](#)** *https://neuroplus.streamlit.app/*
 
 <div align="center">
 
