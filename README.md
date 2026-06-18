@@ -49,7 +49,7 @@
 
 ---
 
-## 🧩 How It Works
+## 🧩 How It Works?
 
 ```
 MRI Image Input
